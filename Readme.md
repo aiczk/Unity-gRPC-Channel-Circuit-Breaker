@@ -1,4 +1,4 @@
-# Uniｔｙ gRPC Channel CircuitBreaker
+# Uni gRPC Channel CircuitBreaker
 Circuit Breaker available in the Unity gRPC environment.
   
 ### What is Circuit Breaker?
